@@ -117,10 +117,10 @@
         <td align="center"><b>백엔드</b></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://avatars.githubusercontent.com/u/154305913?v=4"></td>
-        <td align="center"><img src="https://avatars.githubusercontent.com/u/80738573?v=4"></td>
-        <td align="center"><img src="https://avatars.githubusercontent.com/u/98332877?v=4"></td>
-        <td align="center"><img src="https://avatars.githubusercontent.com/u/149242983?v=4"></td>
+        <td align="center"><a href="https://github.com/az20058"><img src="https://avatars.githubusercontent.com/u/154305913?v=4"></a></td>
+        <td align="center"><a href="https://github.com/kittyismylife"><img src="https://avatars.githubusercontent.com/u/80738573?v=4"></a></td>
+        <td align="center"><a href="https://github.com/MinseoKangQ"><img src="https://avatars.githubusercontent.com/u/98332877?v=4"></a></td>
+        <td align="center"><a href="https://github.com/Jindongleee"><img src="https://avatars.githubusercontent.com/u/149242983?v=4"></a></td>
     </tr>
     <tr>
         <td align="center"><b><a href="https://github.com/az20058">김예찬</a></b></td>
