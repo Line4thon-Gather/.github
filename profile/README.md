@@ -90,7 +90,7 @@
 - Open Fiegn
 - Open AI API ([OpenAI](https://openai.com/index/openai-api))
 - 메일 및 대학 인증 API ([UnivCert](https://univcert.com))
-- 사업자 인증 API ([공공테이터 포털](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15081808#/layer-api-guide)]
+- 사업자 인증 API ([공공테이터 포털](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15081808#/layer-api-guide))
 
 <br>
 
