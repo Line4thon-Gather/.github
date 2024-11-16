@@ -114,6 +114,7 @@
 <table width="50%" align="center">
     <tr>
         <td align="center"><b>기획</b></td>
+        <td align="center"><b>디자인</b></td> 
         <td align="center"><b>프론트엔드</b></td>
         <td align="center"><b>프론트엔드</b></td>
         <td align="center"><b>백엔드</b></td>
@@ -121,6 +122,7 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/kidariseok"><img src="https://avatars.githubusercontent.com/u/163282076?v=4"></a></td>
+        <td align="center"><a href="https://github.com/jjangmj58"><img src="https://avatars.githubusercontent.com/u/165350753?v=4"></a></td>
         <td align="center"><a href="https://github.com/az20058"><img src="https://avatars.githubusercontent.com/u/154305913?v=4"></a></td>
         <td align="center"><a href="https://github.com/kittyismylife"><img src="https://avatars.githubusercontent.com/u/80738573?v=4"></a></td>
         <td align="center"><a href="https://github.com/MinseoKangQ"><img src="https://avatars.githubusercontent.com/u/98332877?v=4"></a></td>
@@ -128,6 +130,7 @@
     </tr>
     <tr>
         <td align="center"><b><a href="https://github.com/kidariseok">오진석</a></b></td>
+        <td align="center"><b><a href="https://github.com/jjangmj58">장민정</a></b></td>
         <td align="center"><b><a href="https://github.com/az20058">김예찬</a></b></td>
         <td align="center"><b><a href="https://github.com/kittyismylife">최현서</a></b></td>
         <td align="center"><b><a href="https://github.com/MinseoKangQ">강민서</a></b></td>
