@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=상상만%20하던%20아이디어를%20현실로%20by%20Togather&fontSize=45&fontAlignY=40&desc=2024%20멋쟁이사자처럼%2012기%204호선톤%20&descAlign=80)
 
 <br><br>
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLine4thon-Gather&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-<br><br>
 
 ## 링크
 ### 🔗 [서비스 바로가기](https://www.to-gather.info)
