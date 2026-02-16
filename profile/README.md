@@ -56,6 +56,7 @@
 </p>
 
 - tanstack-query
+- Docker
 - Visx
 - Zustand
 
